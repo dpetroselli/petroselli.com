@@ -5,4 +5,4 @@ Personal site of Daniele Petroselli, served by GitHub Pages at https://petrosell
 - `index.html` — CV page (screen + print styles, no build step)
 - `Daniele-Petroselli-CV.pdf` — printable CV
 
-Source of truth: `profiles/cv.html` in the private `gluak-workspace` repo. Edit there, re-render the PDF, copy both here, push.
+Source of truth: `profiles/cv.html` in the private `gluak-workspace` repo. Edit there, copy it here as `index.html`, remove the phone number (online version: email only), render the PDF from this `index.html`, push.
